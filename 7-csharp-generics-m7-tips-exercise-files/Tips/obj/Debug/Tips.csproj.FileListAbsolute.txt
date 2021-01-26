@@ -1,0 +1,7 @@
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\bin\Debug\Tips.exe.config
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\bin\Debug\Tips.exe
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\bin\Debug\Tips.pdb
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\obj\Debug\Tips.csprojAssemblyReference.cache
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\obj\Debug\Tips.csproj.CoreCompileInputs.cache
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\obj\Debug\Tips.exe
+C:\dev\scotallen\csharp-generics\7-csharp-generics-m7-tips-exercise-files\Tips\obj\Debug\Tips.pdb

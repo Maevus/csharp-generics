@@ -1,0 +1,17 @@
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Reflection.Test.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Reflection.Test.pdb
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Reflection.exe
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Reflection.pdb
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Reflection.exe.config
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\obj\Debug\Reflection.Test.csprojAssemblyReference.cache
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\obj\Debug\Reflection.Test.csproj.CoreCompileInputs.cache
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\obj\Debug\Reflection.Test.csproj.CopyComplete
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\obj\Debug\Reflection.Test.dll
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection.Test\obj\Debug\Reflection.Test.pdb

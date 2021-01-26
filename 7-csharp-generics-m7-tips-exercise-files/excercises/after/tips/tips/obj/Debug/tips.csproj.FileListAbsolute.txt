@@ -1,0 +1,6 @@
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\bin\Debug\tips.exe.config
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\bin\Debug\tips.exe
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\bin\Debug\tips.pdb
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\obj\Debug\tips.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\obj\Debug\tips.exe
+c:\users\scott\documents\visual studio 2013\Projects\tips\tips\obj\Debug\tips.pdb

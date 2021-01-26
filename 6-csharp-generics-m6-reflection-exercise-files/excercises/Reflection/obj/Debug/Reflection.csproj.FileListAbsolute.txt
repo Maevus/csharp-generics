@@ -1,0 +1,7 @@
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\bin\Debug\Reflection.exe.config
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\bin\Debug\Reflection.exe
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\bin\Debug\Reflection.pdb
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\obj\Debug\Reflection.exe
+C:\dev\scotallen\csharp-generics\6-csharp-generics-m6-reflection-exercise-files\excercises\Reflection\obj\Debug\Reflection.pdb

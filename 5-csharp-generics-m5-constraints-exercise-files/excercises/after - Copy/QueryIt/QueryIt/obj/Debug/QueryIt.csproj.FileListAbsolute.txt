@@ -1,0 +1,12 @@
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\QueryIt.exe.config
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\QueryIt.exe
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\QueryIt.pdb
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\EntityFramework.dll
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\EntityFramework.xml
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\obj\Debug\QueryIt.csprojAssemblyReference.cache
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\obj\Debug\QueryIt.csproj.CoreCompileInputs.cache
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\obj\Debug\QueryIt.csproj.CopyComplete
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\obj\Debug\QueryIt.exe
+C:\dev\scotallen\csharp-generics\5-csharp-generics-m5-constraints-exercise-files\excercises\after - Copy\QueryIt\QueryIt\obj\Debug\QueryIt.pdb
